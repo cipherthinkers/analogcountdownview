@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalogCountdownViewSample.iml" filepath="$PROJECT_DIR$/AnalogCountdownViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analogcountdownview/analogcountdownview.iml" filepath="$PROJECT_DIR$/analogcountdownview/analogcountdownview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analogcountdownview-sample/analogcountdownview-sample.iml" filepath="$PROJECT_DIR$/analogcountdownview-sample/analogcountdownview-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analogcountdownview-sample/app.iml" filepath="$PROJECT_DIR$/analogcountdownview-sample/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogCountdownView">
+        <attr name="start_angle" format="integer"/>
+        <attr name="total_value" format="integer"/>
+        <attr name="initial_value" format="integer" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="progress_color" format="color" />
+        <attr name="timer_icon" format="reference" />
+        <attr name="icon_size" format="dimension" />
+        <attr name="increment" format="boolean" />
+        <attr name="interval_ms" format="integer" />
+        <attr name="start_delay_ms" format="integer" />
+    </declare-styleable>
+</resources>
