@@ -4,6 +4,24 @@
 
 ***
 
+## Installation
+
+Gradle
+
+```groovy
+compile 'com.cipherthinkers:analogcountdownview:1.0.0'
+```
+
+Maven
+```xml
+<dependency>
+  <groupId>com.cipherthinkers</groupId>
+  <artifactId>analogcountdownview</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
 ## Sample Usage
 
 Here is how you can use it in your layout
